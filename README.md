@@ -33,7 +33,7 @@ npm install
 
 3. Inicie o projeto:
 ```bash
-npm start
+npx expo start
 ```
 
 4. Escolha uma das opções para executar o aplicativo:
