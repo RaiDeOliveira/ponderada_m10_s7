@@ -43,4 +43,4 @@ npm start
 
 ## [🎬 Vídeo de demonstração]()
 
-Para assistir o vídeo de demonstração desse projeto, [clique aqui!]() :D
+Para assistir o vídeo de demonstração desse projeto, [clique aqui!](https://youtu.be/ldiWLGl29CE) :D
