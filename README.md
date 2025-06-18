@@ -1,4 +1,4 @@
-# Atividade ponderada - Porgramação - M10 - S7
+# Atividade ponderada - Programação - M10 - S7
 
 **Desenvolvimento de aplicativo mobile usando React Native**
 
